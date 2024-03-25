@@ -56,3 +56,7 @@
 | --- | --- |
 
 ---
+
+## Дизайн
+
+Автор оригинального дизайна [Saeedworks](https://dribbble.com/saeedworks)
